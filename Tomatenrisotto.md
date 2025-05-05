@@ -28,4 +28,5 @@
 - Serveer de tomatenrisotto met geraspte Parmezaanse kaas.
 
 ## Referenties
+- https://github.com/mjkl-gh/awesome-repices
 - https://ohmyfoodness.nl/tomatenrisotto-met-chorizo/ - Gebaseerd op dit recept
